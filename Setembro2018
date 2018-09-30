@@ -1,0 +1,502 @@
+#EXTM3U
+#EXTINF:-1,RTP 1
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/1.ts
+#EXTINF:-1,RTP 2
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/2.ts
+#EXTINF:-1,SIC
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/3.ts
+#EXTINF:-1,TVI
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/4.ts
+#EXTINF:-1,CMTV
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/8.ts
+#EXTINF:-1,RTP 3
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/5.ts
+#EXTINF:-1,TVI  24
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/7.ts
+#EXTINF:-1,A BOLA
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/30.ts
+#EXTINF:-1,SIC NOTICIAS
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/6.ts
+#EXTINF:-1,PORTO CANAL
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/51.ts
+#EXTINF:-1,SIC RADICAL
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/12.ts
+#EXTINF:-1,SIC K
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/10.ts
+#EXTINF:-1,NICKELODEON
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/14.ts
+#EXTINF:-1,JIM JAM
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/11.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/15.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/16.ts
+#EXTINF:-1,CARTOON NETWORK
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/17.ts
+#EXTINF:-1,CANAL PANDA
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/13.ts
+#EXTINF:-1,PANDA BIGGS
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/9.ts
+#EXTINF:-1,---------- FILMES & SERIES ----------
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/69.ts
+#EXTINF:-1,AMC
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/21.ts
+#EXTINF:-1,AXN HD
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/18.ts
+#EXTINF:-1,AXN WHITE
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/20.ts
+#EXTINF:-1,AXN BLACK
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/19.ts
+#EXTINF:-1,FOX LIFE
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/1229.ts
+#EXTINF:-1,FOX CRIME
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/641.ts
+#EXTINF:-1,FOX MOVIES
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/22.ts
+#EXTINF:-1,FOX COMEDY
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/52.ts
+#EXTINF:-1,CINEMUNDO
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/23.ts
+#EXTINF:-1,HOLLYWOOD
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/24.ts
+#EXTINF:-1,TVCINE 1 HD
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/25.ts
+#EXTINF:-1,TVCINE 2 HD
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/26.ts
+#EXTINF:-1,TVCINE 3 HD
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/27.ts
+#EXTINF:-1,TVCINE 4 HD
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/28.ts
+#EXTINF:-1,TVSERIES HD
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/29.ts
+#EXTINF:-1,---------- DESPORTO ----------
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/70.ts
+#EXTINF:-1,EUROSPORT 1
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/31.ts
+#EXTINF:-1,SPORT TV +
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/33.ts
+#EXTINF:-1,SPORTTV 1 HD
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/35.ts
+#EXTINF:-1,SPORT TV 2 HD
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/37.ts
+#EXTINF:-1,SPORT TV 3 HD
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/38.ts
+#EXTINF:-1,SPORT TV 4
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/39.ts
+#EXTINF:-1,SPORT TV 5
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/40.ts
+#EXTINF:-1,BENFICA TV 1
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/41.ts
+#EXTINF:-1,CAÇAVISION
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/43.ts
+#EXTINF:-1,CAZA y PESCA
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/44.ts
+#EXTINF:-1,MOTORVISION
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/190.ts
+#EXTINF:-1,KOMBAT SPORTS
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/191.ts
+#EXTINF:-1,PFC
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/654.ts
+#EXTINF:-1,---------- ENTERTIMENTO ----------
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/71.ts
+#EXTINF:-1,TVI  REALITY
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/45.ts
+#EXTINF:-1,TVI FICCAO
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/50.ts
+#EXTINF:-1,TV RECORD
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/47.ts
+#EXTINF:-1,TLC
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/1345.ts
+#EXTINF:-1,SIC MULHER
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/648.ts
+#EXTINF:-1,SIC CARAS
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/921.ts
+#EXTINF:-1,TV GLOBO
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/48.ts
+#EXTINF:-1,TV GLOBO PREMIUM
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/49.ts
+#EXTINF:-1,ODISSEIA
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/53.ts
+#EXTINF:-1,TRAVEL CHANNEL
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/61.ts
+#EXTINF:-1,CANAL DE HISTORIA
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/54.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/55.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/56.ts
+#EXTINF:-1,NAT GEO WILL
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/57.ts
+#EXTINF:-1,24 KITCHEN
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/58.ts
+#EXTINF:-1,MTV PORTUGAL
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/59.ts
+
+#EXTINF:-1,PT: FUEL TV
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16972.ts
+#EXTINF:-1,PT:A BOLA TV
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17015.ts
+#EXTINF:-1,PT:A&E
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16960.ts
+#EXTINF:-1,PT:AMC HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16977.ts
+#EXTINF:-1,PT:AXN BLACK HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16986.ts
+#EXTINF:-1,PT:AXN HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16988.ts
+#EXTINF:-1,PT:AXN WHITE HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16987.ts
+#EXTINF:-1,PT:BENFICA TV HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17011.ts
+#EXTINF:-1,PT:CACA E PESCA
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16970.ts
+#EXTINF:-1,PT:CANAL PANDA
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16965.ts
+#EXTINF:-1,PT:CARTOON NETWORK
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16961.ts
+#EXTINF:-1,PT:CINEMUNDO
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16975.ts
+#EXTINF:-1,PT:DISCOVERY HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16958.ts
+#EXTINF:-1,PT:DISCOVERY SHOWCASE HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16955.ts
+#EXTINF:-1,PT:DISNEY CHANNEL HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16962.ts
+#EXTINF:-1,PT:DISNEY JUNIOR HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16963.ts
+#EXTINF:-1,PT:EUROSPORT 1 HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16954.ts
+#EXTINF:-1,PT:EUROSPORT 2 HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16953.ts
+#EXTINF:-1,PT:FOX COMEDY HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16981.ts
+#EXTINF:-1,PT:FOX CRIME HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16983.ts
+#EXTINF:-1,PT:FOX HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16985.ts
+#EXTINF:-1,PT:FOX LIFE HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16984.ts
+#EXTINF:-1,PT:FOX MOVIES HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16982.ts
+#EXTINF:-1,PT:HOLLYWOOD HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16980.ts
+#EXTINF:-1,PT:MOTORVISION
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17012.ts
+#EXTINF:-1,PT:MOV HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16978.ts
+#EXTINF:-1,PT:NAT GEO WILD HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16957.ts
+#EXTINF:-1,PT:NAT GEOGRAPHIC HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16956.ts
+#EXTINF:-1,PT:NICKELODEON HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16964.ts
+#EXTINF:-1,PT:ODISSEIA
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16974.ts
+#EXTINF:-1,PT:PANDA PIGGS HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16971.ts
+#EXTINF:-1,PT:PORTO CANAL
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17014.ts
+#EXTINF:-1,PT:RTP 1 HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17004.ts
+#EXTINF:-1,PT:RTP 2 HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17003.ts
+#EXTINF:-1,PT:RTP 3 HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17002.ts
+#EXTINF:-1,PT:RTP ACORES HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17000.ts
+#EXTINF:-1,PT:RTP AFRICA HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17001.ts
+#EXTINF:-1,PT:RTP MADEIRA HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16998.ts
+#EXTINF:-1,PT:RTP MEMORIA HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16999.ts
+#EXTINF:-1,PT:SIC
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16997.ts
+#EXTINF:-1,PT:SIC CARAS HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16993.ts
+#EXTINF:-1,PT:SIC KIDS
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16996.ts
+#EXTINF:-1,PT:SIC NOTICIAS HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16994.ts
+#EXTINF:-1,PT:SIC RADICAL HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16995.ts
+#EXTINF:-1,PT:SPORT TV 1 HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17010.ts
+#EXTINF:-1,PT:SPORT TV 2 HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17009.ts
+#EXTINF:-1,PT:SPORT TV 3 HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17008.ts
+#EXTINF:-1,PT:SPORT TV 4 HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17007.ts
+#EXTINF:-1,PT:SPORT TV 5 HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17006.ts
+#EXTINF:-1,PT:SPORTING TV HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17005.ts
+#EXTINF:-1,PT:SYFY
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16979.ts
+#EXTINF:-1,PT:TV SERIES HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16976.ts
+#EXTINF:-1,PT:TVCINE 1 HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16969.ts
+#EXTINF:-1,PT:TVCINE 2 HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16968.ts
+#EXTINF:-1,PT:TVCINE 3 HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16967.ts
+#EXTINF:-1,PT:TVCINE 4 HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16966.ts
+#EXTINF:-1,PT:TVI 24 HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16991.ts
+#EXTINF:-1,PT:TVI FACCAO HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16989.ts
+#EXTINF:-1,PT:TVI HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16992.ts
+#EXTINF:-1,PT:TVI REALITY HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16990.ts
+#EXTINF:-1,PT:VH 1 HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/16973.ts
+#EXTINF:-1,PT: TCV Cabo
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/66523.ts
+#EXTINF:-1,PT: TPA ANGOLA
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/66269.ts
+#EXTINF:-1,PT: TV MIRAMAR ANGOLA
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/66268.ts
+#EXTINF:-1,PT: 24 KITCHEN HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67195.ts
+#EXTINF:-1,PT: AMC
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67193.ts
+#EXTINF:-1,PT: AMC HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67192.ts
+#EXTINF:-1,PT: Angelus TV
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67191.ts
+#EXTINF:-1,PT: AXN BLACK HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67190.ts
+#EXTINF:-1,PT: AXN HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67189.ts
+#EXTINF:-1,PT: AXN WHITE HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67188.ts
+#EXTINF:-1,PT: BABY TV
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67187.ts
+#EXTINF:-1,PT: BTV 1
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67186.ts
+#EXTINF:-1,PT: BTV 1HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67185.ts
+#EXTINF:-1,PT: CA?AVISION
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67183.ts
+#EXTINF:-1,PT: CACA E PESCA
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67184.ts
+#EXTINF:-1,PT: CANAL HIST?RIA
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67182.ts
+#EXTINF:-1,PT: CANAL PANDA
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67181.ts
+#EXTINF:-1,PT: CANAL Q
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67180.ts
+#EXTINF:-1,PT: CARTOON NETWORK
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67179.ts
+#EXTINF:-1,PT: CBS REALITY
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67178.ts
+#EXTINF:-1,PT: CINEMUNDO
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67177.ts
+#EXTINF:-1,PT: CMTV
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67176.ts
+#EXTINF:-1,PT: CMTV HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67175.ts
+#EXTINF:-1,PT: CRIME INVESTIGATION
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67174.ts
+#EXTINF:-1,PT: DISCOVERY CHANNEL
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67173.ts
+#EXTINF:-1,PT: DISCOVERY HD SHOWCASE
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67172.ts
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67171.ts
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67170.ts
+#EXTINF:-1,PT: DOG TV
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67169.ts
+#EXTINF:-1,PT: FINE LIVING NETWORK HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67156.ts
+#EXTINF:-1,PT: FOOD NETWORK HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67155.ts
+#EXTINF:-1,PT: FOX COMEDY
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67154.ts
+#EXTINF:-1,PT: FOX Crime HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67153.ts
+#EXTINF:-1,PT: FOX HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67152.ts
+#EXTINF:-1,PT: FOX Life HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67151.ts
+#EXTINF:-1,PT: FOX MOVIES
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67150.ts
+#EXTINF:-1,PT: Fuel TV
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67149.ts
+#EXTINF:-1,PT: HOLLYWOOD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67148.ts
+#EXTINF:-1,PT: Hollywood HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67147.ts
+#EXTINF:-1,PT: JIM JAM
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67146.ts
+#EXTINF:-1,PT: KOMBAT SPORT
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67145.ts
+#EXTINF:-1,PT: My Cuisine
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67142.ts
+#EXTINF:-1,PT: Nat Geo Wild
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67141.ts
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67140.ts
+#EXTINF:-1,PT: NBA TV
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67139.ts
+#EXTINF:-1,PT: Nickelodeon
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67138.ts
+#EXTINF:-1,PT: Odisseia
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67137.ts
+#EXTINF:-1,PT: PANDA BIGGS
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67136.ts
+#EXTINF:-1,PT: RTP 2
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67132.ts
+#EXTINF:-1,PT: RTP 3
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67131.ts
+#EXTINF:-1,PT: RTP ?FRICA
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67129.ts
+#EXTINF:-1,PT: RTP ACORES
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67130.ts
+#EXTINF:-1,PT: RTP MADEIRA
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67128.ts
+#EXTINF:-1,PT: RTP MEMORIA
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67127.ts
+#EXTINF:-1,PT: RTP1
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67126.ts
+#EXTINF:-1,PT: RTP1 HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67125.ts
+#EXTINF:-1,PT: RTP2 HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67124.ts
+#EXTINF:-1,PT: RTP3 HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67123.ts
+#EXTINF:-1,PT: SIC
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67122.ts
+#EXTINF:-1,PT: SIC Caras
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67121.ts
+#EXTINF:-1,PT: SIC CARAS HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67120.ts
+#EXTINF:-1,PT: SIC HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67119.ts
+#EXTINF:-1,PT: SIC K
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67118.ts
+#EXTINF:-1,PT: SIC MULHER
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67117.ts
+#EXTINF:-1,PT: SIC Mulher HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67116.ts
+#EXTINF:-1,PT: SIC NOTICIAS
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67115.ts
+#EXTINF:-1,PT: SIC NOTICIAS HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67114.ts
+#EXTINF:-1,PT: SIC RADICAL
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67113.ts
+#EXTINF:-1,PT: SIC RADICAL HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67112.ts
+#EXTINF:-1,PT: SYFY
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67097.ts
+#EXTINF:-1,PT: SYFY HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67096.ts
+#EXTINF:-1,PT: TLC
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67095.ts
+#EXTINF:-1,PT: TPA
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67093.ts
+#EXTINF:-1,PT: A BOLA TV
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67194.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67168.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 1 HD NET FRACA
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67167.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67166.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 2 HD NET FRACA
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67165.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67164.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HD NET FRACA
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67163.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67162.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67161.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 6 HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67160.ts
+#EXTINF:-1,PT: EUROSPORT 1 HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67159.ts
+#EXTINF:-1,PT: EUROSPORT 2
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67158.ts
+#EXTINF:-1,PT: EUROSPORT1
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67157.ts
+#EXTINF:-1,PT: MOTORS TV
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67144.ts
+#EXTINF:-1,PT: MOTORVISION
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67143.ts
+#EXTINF:-1,PT: PORTO CANAL
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67135.ts
+#EXTINF:-1,PT: PORTO CANAL HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67134.ts
+#EXTINF:-1,PT: REAL MADRID TV
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67133.ts
+#EXTINF:-1,PT: SPORT TV
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67111.ts
+#EXTINF:-1,PT: SPORT TV 3
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67110.ts
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67109.ts
+#EXTINF:-1,PT: Sport TV 4HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67108.ts
+#EXTINF:-1,PT: SPORT TV1
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67107.ts
+#EXTINF:-1,PT: SPORT TV2
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67106.ts
+#EXTINF:-1,PT: SPORT TV2 HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67105.ts
+#EXTINF:-1,PT: SPORT TV4
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67104.ts
+#EXTINF:-1,PT: SPORTING HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67103.ts
+#EXTINF:-1,PT: SPORTING TV
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67102.ts
+#EXTINF:-1,PT: SPORTTV 5
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67101.ts
+#EXTINF:-1,PT: SPORTV    HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67100.ts
+#EXTINF:-1,PT: SPORTV 5 HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67099.ts
+#EXTINF:-1,PT: SPORTV1 HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67098.ts
+#EXTINF:-1,PT: TOROS TV
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67094.ts
+#EXTINF:-1,PT: TRAVEL CHANNEL HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67092.ts
+#EXTINF:-1,PT: TV  SERIES
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67091.ts
+#EXTINF:-1,PT: TV CINE 2
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67090.ts
+#EXTINF:-1,PT: TV SERIES  HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67089.ts
+#EXTINF:-1,PT: TVCINE 1
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67088.ts
+#EXTINF:-1,PT: TVCine 1 HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67087.ts
+#EXTINF:-1,PT: TVCINE 2 HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67086.ts
+#EXTINF:-1,PT: TVCINE 3
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67085.ts
+#EXTINF:-1,PT: TVCine 3 HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67084.ts
+#EXTINF:-1,PT: TVCine 4
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67083.ts
+#EXTINF:-1,PT: TVCine 4 HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67082.ts
+#EXTINF:-1,PT: TVI
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67081.ts
+#EXTINF:-1,PT: TVI FICCAO
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67080.ts
+#EXTINF:-1,PT: TVI HD
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67079.ts
+#EXTINF:-1,PT: TVI Reality
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67078.ts
+#EXTINF:-1,PT: TVI24
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67077.ts
+#EXTINF:-1,PT: VH1 CLASSIC
+http://zerocube.co:8000/live/IPRT9u7a9m/o8u0szDYHJ/67076.ts
